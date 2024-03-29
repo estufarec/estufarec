@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estufa Records</title>
+</head>
+
+<body>
+    <header>
+        <h1>Estufa Records</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">Sobre</a></li>
+                <li><a href="#artists">Artistas</a></li>
+                <li><a href="#music">Música</a></li>
+                <li><a href="#contact">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>Sobre Nós</h2>
+        <p>A Estufa Records é uma gravadora independente comprometida em promover talentos musicais emergentes. Descubra novas músicas, apoie artistas independentes e explore o mundo da música com a Estufa Records.</p>
+    </section>
+
+    <section id="artists">
+        <h2>Artistas</h2>
+        <ul>
+            <li>Nome do Artista 1</li>
+            <li>Nome do Artista 2</li>
+            <li>Nome do Artista 3</li>
+            <!-- Adicione mais artistas conforme necessário -->
+        </ul>
+    </section>
+
+    <section id="music">
+        <h2>Música</h2>
+        <p>Explore nossa coleção de músicas e álbuns. Ouça as últimas faixas dos nossos talentosos artistas independentes.</p>
+        <div>
+            <h3>Últimas Músicas</h3>
+            <!-- Adicione as últimas músicas aqui -->
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contato</h2>
+        <p>Entre em contato conosco para mais informações sobre nossos artistas, eventos ou colaborações.</p>
+        <address>
+            Email: info@estufarecords.com<br>
+            Telefone: +55 123 456 789<br>
+            Endereço: Rua da Música, 123 - Cidade, País
+        </address>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Estufa Records. Todos os direitos reservados.</p>
+    </footer>
+</body>
+
+</html>
